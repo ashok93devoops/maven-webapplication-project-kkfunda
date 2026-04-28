@@ -102,7 +102,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus-snap</id>
 	      <name>ASHOK Snapshot Nexus Repository </name>
 	      <url>http://16.16.162.90:8081/repository/jio-snapshot/</url>
 	    </snapshotRepository>
